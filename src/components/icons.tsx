@@ -15,13 +15,14 @@ export const Icons = {
     </svg>
   ),
   x: (props: IconProps) => (
-    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" {...props}>
-      <title>X</title>
-      <path
-        fill="currentColor"
-        d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"
-      />
-    </svg>
+ <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" {...props}>
+  <title>Facebook</title>
+  <path
+    fill="currentColor"
+    d="M22.675 0h-21.35C.597 0 0 .598 0 1.333v21.333C0 23.403.597 24 1.325 24h11.495v-9.294H9.692v-3.622h3.128V8.413c0-3.1 1.893-4.788 4.659-4.788 1.325 0 2.466.099 2.798.143v3.24h-1.922c-1.507 0-1.798.717-1.798 1.768v2.316h3.595l-.468 3.622h-3.127V24h6.127C23.403 24 24 23.403 24 22.667V1.333C24 .598 23.403 0 22.675 0z"
+  />
+</svg>
+
   ),
   youtube: (props: IconProps) => (
     <svg
