@@ -11,7 +11,7 @@ export const DATA = {
     "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Telegram.",
   summary:
     "iOS Developer with 2 years of experience in iOS app development. Proficient in Swift, UIKit, Ui, and CoreData, with hands-on experience designing and implementing scalable, high-performance applications. Skilled in building intuitive user interfaces, integrating RESTful APIs, and ensuring robust app functionality. Strong collaboration skills in working with cross-functional teams to deliver high-quality, user-focused solutions.",
-  avatarUrl: "/haisombo.png",
+  avatarUrl: "/4x6V.png",
 
   skills: [
     "Swift Uikit",
@@ -346,8 +346,9 @@ export const DATA = {
     },
   ],
   hackathons: [
+
     {
-      title: "Hack Western 5",
+      title: "Leaving Managerment System(LMS)",
       dates: "November 23rd - 25th, 2018",
       location: "London, Ontario",
       description:
